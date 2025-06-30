@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "inlineChat.accessibleDiffView": "off",
+    "inlineChat.lineNaturalLanguageHint": false,
+    "inlineChat.holdToSpeech": false,
+    "accessibility.verbosity.inlineChat": false
+}
